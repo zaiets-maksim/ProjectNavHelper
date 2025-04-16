@@ -9,7 +9,7 @@ Have you ever found yourself instinctively pressing the side buttons on your mou
 Assets/ProjectNavHelperSettings => Can Ping — toggle this setting to control pinging behavior.<br>
 
 
-![IMG_7234](https://github.com/user-attachments/assets/2242ca86-1b9c-4ae2-9de9-c261870b7315)
+![IMG_7234](https://github.com/user-attachments/assets/5634c0a5-3824-4392-9299-09a28c67cfd5)
 
 
 #### ⚙ Installation:<br>
