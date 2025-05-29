@@ -4,7 +4,7 @@ A tool designed to speed up your workflow and make life a little easier.<br>
 Have you ever found yourself instinctively pressing the side buttons on your mouse while in the Project window?<br>
 (And yes — nothing happened every time.)<br>
 
-![edited – anim](https://github.com/user-attachments/assets/91c6530c-9f36-4463-a201-41656ffdf42f)
+![edited2 – anim](https://github.com/user-attachments/assets/e5d268b8-005d-485c-b252-a5425552dde0)
 
 - Now, you can finally navigate freely through the Project window using your mouse’s side buttons.<br>
 - There is an option to disable object pinging when navigating back.<br>
