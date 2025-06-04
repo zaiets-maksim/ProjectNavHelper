@@ -2,8 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854" width="223" align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;A tool designed to speed up your workflow and make life a little easier.<br>
-Have you ever found yourself instinctively pressing the side buttons on your mouse while in the Project window?<br>
-(And yes — nothing happened every time.)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Have you ever found yourself instinctively pressing the side buttons on your mouse while in the Project window?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(And yes — nothing happened every time.)<br>
 
 
 
