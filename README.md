@@ -1,9 +1,13 @@
 # ProjectNavHelper
 
-<img src="![edited3anim-ezgif com-resize](https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854)" align="left" width="150" style="margin-right: 20px;"
-A tool designed to speed up your workflow and make life a little easier.<br>
+<table>
+  <tr>
+    <td><img src="![edited3anim-ezgif com-resize](https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854)" alt="Описание" width="150"></td>
+    <td>A tool designed to speed up your workflow and make life a little easier.<br>
 Have you ever found yourself instinctively pressing the side buttons on your mouse while in the Project window?<br>
-(And yes — nothing happened every time.)<br>
+(And yes — nothing happened every time.)<br></td>
+  </tr>
+</table>
 
 - Now, you can finally navigate freely through the Project window using your mouse’s side buttons.<br>
 - Support for multiple Project windows.<br>
