@@ -6,10 +6,15 @@ Have you ever found yourself instinctively pressing the side buttons on your mou
 
 - Now, you can finally navigate freely through the Project window using your mouse’s side buttons.<br>
 - There is an option to disable object pinging when navigating back.<br>
+- Support for multiple Project windows
+- Option to ignore locked Project windows
+
 Assets/ProjectNavHelperSettings => Can Ping — toggle this setting to control pinging behavior.<br>
+Assets/ProjectNavHelperSettings => Ignore Lock - enabled by default
 
-
-![IMG_7234](https://github.com/user-attachments/assets/5634c0a5-3824-4392-9299-09a28c67cfd5)
+![Rec0005-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9d6194c4-3cf5-455d-a3b1-d53b760ca776)
+![Rec0007-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e1c8f128-e15a-463e-9707-02cc8f887a06)
+![edited3anim-ezgif com-resize](https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854)
 
 
 #### ⚙ Installation:<br>
