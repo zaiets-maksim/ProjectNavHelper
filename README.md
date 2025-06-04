@@ -7,7 +7,6 @@
 </tr>
 </table>
 
-<br>
 - Now, you can finally navigate freely through the Project window using your mouse’s side buttons.<br>
 - Support for multiple Project windows.<br>
 - There is an option to disable object pinging when navigating back.<br>
