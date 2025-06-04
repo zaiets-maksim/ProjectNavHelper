@@ -10,7 +10,11 @@ Assets/ProjectNavHelperSettings => Can Ping — toggle this setting to control p
 
 
 ![Rec0005-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9d6194c4-3cf5-455d-a3b1-d53b760ca776)
-![Rec0007-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ae5d3136-3dd0-4f87-b540-781c31c35690)
+
+
+
+![Rec0007-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e1c8f128-e15a-463e-9707-02cc8f887a06)
+
 
 
 ![edited3anim-ezgif com-resize](https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854)
