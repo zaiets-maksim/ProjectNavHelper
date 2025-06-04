@@ -1,7 +1,7 @@
 # ProjectNavHelper
 
 <div style="display: flex; align-items: start;">
-  <img src="![edited3anim-ezgif com-resize](https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854)" style="width: 223px; margin-right: 203px;" />
+  <img src="https://github.com/user-attachments/assets/3b0de392-7a80-4604-a3ab-1a133b6cf854" style="width: 223px; margin-right: 20px;" />
   <p>
     Test text.
   </p>
