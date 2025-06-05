@@ -284,7 +284,7 @@ namespace ProjectNavHelper
         static ProjectNavHelperContextMenu()
         {
             CanPing = EditorPrefs.GetBool(CanPinKey, false);
-            IgnoreLock = EditorPrefs.GetBool(IgnoreLockKey, false);
+            IgnoreLock = EditorPrefs.GetBool(IgnoreLockKey, true);
         }
 
         [MenuItem(CanPingMenuPath, priority = 0)]
